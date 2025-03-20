@@ -1,0 +1,17 @@
+# Systemminfo-PC-D208-PC021
+Open command prompt ( Windows key + R, then type cmd and hit enter).
+Type systeminfo and hit enter button to get information about System.
+Here is the links for more information.
+[1st link](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/systeminfo)
+[2nd Link](https://answers.microsoft.com/en-us/windows/forum/all/how-to-get-all-system-information-about-my/e7f55007-3b8e-4e1a-b174-fa345e3e0290)
+it Provides information about System
+Host Name
+OS Name
+OS Version
+OS Manufacturer
+OS Configuration
+OS Build Type
+
+System Model
+System Type
+
